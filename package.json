@@ -1,0 +1,23 @@
+{
+  "name": "appium_js",
+  "version": "1.0.0",
+  "description": "Appium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dimuthchathu101/Appium_JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dimuthchathu101/Appium_JS/issues"
+  },
+  "homepage": "https://github.com/Dimuthchathu101/Appium_JS#readme",
+  "dependencies": {
+    "webdriverio": "^8.27.0"
+  }
+}
